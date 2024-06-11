@@ -12,4 +12,4 @@
     </br>
 </div>
 
-# Glowing_Players
+# Modrinth
