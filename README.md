@@ -13,3 +13,4 @@
 </div>
 
 # Modrinth
+[https://modrinth.com/datapack/glowing_players](https://modrinth.com/datapack/glowing_players)
