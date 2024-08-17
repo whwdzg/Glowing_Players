@@ -1,1 +1,1 @@
-effect give @a glowing infinite
+effect give @a glowing infinite 0 true
