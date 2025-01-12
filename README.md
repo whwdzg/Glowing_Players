@@ -15,5 +15,8 @@
 # Notice
 **Since 1.0.1, Glowing Players will not support Minecraft veriosn below 1.21**
 
-# Modrinth
+# Modrinth(Fastest, Including most versions)
 [https://modrinth.com/datapack/glowing_players](https://modrinth.com/datapack/glowing_players)
+
+# CurseForge(Only few versions)
+[https://legacy.curseforge.com/minecraft/mc-mods/glowing-players](https://legacy.curseforge.com/minecraft/mc-mods/glowing-players)
