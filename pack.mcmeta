@@ -1,6 +1,10 @@
 {
-        "pack": {
-                "pack_format": 48,
-                "description":"Provide players glowing effect -by whwdzg"
-        }
+	"pack": {
+		"pack_format": 26,
+		"supported_formats": [
+			4,
+			26
+		],
+		"description": "Provide players glowing effect -by whwdzg"
+	}
 }
